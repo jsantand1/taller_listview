@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Taller_Clase</string>
+    <string name="celular">Phone</string>
+    <string name="lista">List</string>
+    <string name="reportes">Reports</string>
+    <string name="marca">Brand</string>
+    <string name="color">Color</string>
+    <string name="precio">Price</string>
+    <string name="registrar">Register</string>
+    <string name="limpiar">Clear</string>
+    <string name="nokia">Nokia</string>
+    <string name="huawei">Huawei</string>
+    <string name="apple">Apple</string>
+    <string name="samsung">Samsung</string>
+    <string name="rojo">Red</string>
+    <string name="negro">Black</string>
+    <string name="azul">Blue</string>
+    <string name="blanco">White</string>
+    <string name="guardar">Saved record</string>
+    <string name="numeroa_app">" The number of cell phones branded apple and black is"</string>
+    <string name="numerCelulares">Number of  phones</string>
+    <string name="total">Total</string>
+    <string name="promedio">The average</string>
+    <string name="title_activity_reporte">Report</string>
+    <string name="reporte1">One report</string>
+    <string name="reporte2">Second report</string>
+</resources>

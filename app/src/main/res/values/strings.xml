@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Taller_Clase</string>
+    <string name="celular">Celular</string>
+    <string name="lista">Lista</string>
+    <string name="reportes">Reportes</string>
+    <string name="marca">Marca</string>
+    <string name="color">Color</string>
+    <string name="precio">Precio</string>
+    <string name="registrar">Registrar</string>
+    <string name="limpiar">Limpiar</string>
+    <string-array name="opciones">
+        <item>@string/celular</item>
+        <item>@string/lista</item>
+        <item>@string/reportes</item>
+    </string-array>
+    <string name="nokia">Nokia </string>
+    <string name="huawei">Huaewi </string>
+    <string name="apple">Apple </string>
+    <string name="samsung">Samsung </string>
+    <string-array name="marcas">
+        <item>@string/nokia</item>
+        <item>@string/huawei</item>
+        <item>@string/apple</item>
+        <item>@string/samsung</item>
+    </string-array>
+    <string name="rojo">Rojo</string>
+    <string name="negro">Negro</string>
+    <string name="azul">Azul</string>
+    <string name="blanco">Blanco</string>
+    <string-array name="colores">
+        <item>@string/rojo</item>
+        <item>@string/negro</item>
+        <item>@string/azul</item>
+        <item>@string/blanco</item>
+    </string-array>
+    <string name="guardar">Registro guardado correctamente</string>
+    <string name="numeroa_app">El numero de celulares marca apple y de color negro es</string>
+    <string name="numerCelulares">Numero de celulares</string>
+    <string name="total">Total</string>
+    <string name="promedio">El promedio es</string>
+    <string name="title_activity_reporte">Reporte</string>
+    <string name="reporte1">Reporte 1</string>
+    <string name="reporte2">Reporte 2</string>
+</resources>
